@@ -768,6 +768,21 @@ section {
   background: #f5e78a;
 }
 
+/* SASS */
+.services .service-box.sass {
+  border-bottom: 3px solid #cb6699;
+}
+.services .service-box.sass .icon {
+  color: #cb6699;
+  background: #feecf7;
+}
+.services .service-box.sass .read-more {
+  color: #cb6699;
+}
+.services .service-box.sass:hover {
+  background: #ebc6d9;
+}
+
 /* Bootstrap 5 */
 .services .service-box.purple {
   border-bottom: 3px solid #650ef1;
@@ -811,21 +826,6 @@ section {
 }
 .services .service-box.react-blue:hover {
   background: #b5eefd;
-}
-
-/* Visual Studio Code */
-.services .service-box.vs-blue {
-  border-bottom: 3px solid #1d94e4;
-}
-.services .service-box.vs-blue .icon {
-  color: #1d94e4;
-  background: #feecf7;
-}
-.services .service-box.vs-blue .read-more {
-  color: #1d94e4;
-}
-.services .service-box.vs-blue:hover {
-  background: #8dc9f2;
 }
 
 /* NPM */
