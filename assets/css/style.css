@@ -798,6 +798,21 @@ section {
   background: #b287f8;
 }
 
+/* Tailwind CSS */
+.services .service-box.tw {
+  border-bottom: 3px solid #38b2ac;
+}
+.services .service-box.tw .icon {
+  color: #38b2ac;
+  background: #feecf7;
+}
+.services .service-box.tw .read-more {
+  color: #38b2ac;
+}
+.services .service-box.tw:hover {
+  background: #b1e7e4;
+}
+
 /* TypeScript */
 .services .service-box.ts-blue {
   border-bottom: 3px solid #2d79c7;
@@ -826,21 +841,6 @@ section {
 }
 .services .service-box.react-blue:hover {
   background: #b5eefd;
-}
-
-/* NPM */
-.services .service-box.red {
-  border-bottom: 3px solid #cb3838;
-}
-.services .service-box.red .icon {
-  color: #cb3838;
-  background: #feecf7;
-}
-.services .service-box.red .read-more {
-  color: #cb3838;
-}
-.services .service-box.red:hover {
-  background: #e59a9a;
 }
 
 /* Git */
