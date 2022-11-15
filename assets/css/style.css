@@ -843,19 +843,19 @@ section {
   background: #b5eefd;
 }
 
-/* Git */
-.services .service-box.git {
-  border-bottom: 3px solid #de4c36;
+/* WordPress */
+.services .service-box.wp {
+  border-bottom: 3px solid #52b6e0;
 }
-.services .service-box.git .icon {
-  color: #de4c36;
+.services .service-box.wp .icon {
+  color: #52b6e0;
   background: #feecf7;
 }
-.services .service-box.git .read-more {
-  color: #de4c36;
+.services .service-box.wp .read-more {
+  color: #52b6e0;
 }
-.services .service-box.git:hover {
-  background: #ed9e91;
+.services .service-box.wp:hover {
+  background: #a8daf0;
 }
 
 .services .service-box:hover h3,
